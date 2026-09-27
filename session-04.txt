@@ -74,7 +74,7 @@ userid 0 means, it is root user
 
 /etc/passwd -> user info
 /etc/group -> group info
-
+groupadd sre -> creating group <sre is group name>
 usermod -g <group-name> <user-name> -> adding user to primary group
 usermod -g devops ramesh
 
